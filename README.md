@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting this bag
-- 🌱 I’m currently learning Introduction to Python
-- 🤔 I’m looking for help with everything
-- 📫 How to reach me: jpalo@uci.edu
-- ⚡ Fun fact: very cool
+Current student at University of California, Irvine
+Bachelor of Science in Computer Science, expected to graduate 2025
 
