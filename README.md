@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Current student at University of California, Irvine
-Bachelor of Science in Computer Science, expected to graduate 2025
+Student at University of California, Irvine
+Bachelor of Science in Computer Science, Specializing in Intelligent Systems, expected to graduate 2025
 
